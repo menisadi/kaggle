@@ -1,6 +1,6 @@
 # Digit Recognizer
 
-**Challange: get best accuracy without using neural-networks (yet)**  
+**Challange: get high accuracy as possible without using neural-networks (yet)**  
 My attempts so far:  
 
 | No. | Idea                                   | Accuracy |
